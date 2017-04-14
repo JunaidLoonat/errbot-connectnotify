@@ -1,0 +1,9 @@
+[Core]
+Name = ConnectNotify
+Module = connectnotify
+
+[Documentation]
+Description = Notify the configured users/channels whenever the bot connects to the server
+
+[Python]
+Version = 3
